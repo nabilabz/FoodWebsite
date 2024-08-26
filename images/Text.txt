@@ -1,0 +1,42 @@
+HOME PAGE
+
+Welcome to BlueJack FoodHall
+BlueJack Foodhall was firstly opened in March 1991 with the goal of providing great food, great services at an affordable price. We focus on customer's loyalty and satisfaction. We believe in making every dining experience memorable, so that the customers will keep coming back for more, since the key to be a successful restaurant business is to provide a great and positive customer experience. BlueJack Foodhall serves many different varieties of Asian, Indonesian, and West cuisine, such as our favorite Chicken Tacos, Geso Karaage, Wings Over Buffalo, Cajun Chicken Pasta, and many more. Our highly trained and experienced executive chefs from Japan and England dish up all of our delicious menus.
+
+====================================================================================
+FOOD PAGE
+Menu Name:
+Price:
+Category:
+Rating:
+
+Buta Tsukune Shio
+$5.4 USD
+Japanese Food
+Good !
+
+Takoyaki
+$4.3 USD
+Japanese Food
+Good !
+
+====================================================================================
+DRINK PAGE
+Menu Name:
+Price:
+Category:
+Rating:
+
+Orange Vodka Mix
+$5.3 USD
+Beverage
+Good!
+
+Green Smoothie
+$6.3 USD
+Beverage
+Bravo!
+
+====================================================================================
+FOOTER
+Copyright &copy; 2014 by Academic Team
